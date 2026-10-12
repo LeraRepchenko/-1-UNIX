@@ -1,0 +1,16 @@
+# Скомпилированные файлы
+lab1
+lab1_sigint
+*.o
+*.out
+
+# Лог-файлы
+*.log
+
+# Файлы VS Code
+.vscode/
+*.code-workspace
+
+# Временные файлы
+*.swp
+*~
